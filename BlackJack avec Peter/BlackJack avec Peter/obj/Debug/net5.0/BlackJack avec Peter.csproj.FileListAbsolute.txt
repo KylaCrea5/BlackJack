@@ -1,0 +1,32 @@
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\BlackJack avec Peter.exe
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\BlackJack avec Peter.deps.json
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\BlackJack avec Peter.runtimeconfig.json
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\BlackJack avec Peter.runtimeconfig.dev.json
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\BlackJack avec Peter.dll
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\ref\BlackJack avec Peter.dll
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\BlackJack avec Peter.pdb
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.csproj.AssemblyReference.cache
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.AssemblyInfoInputs.cache
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.AssemblyInfo.cs
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.csproj.CoreCompileInputs.cache
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.dll
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\ref\BlackJack avec Peter.dll
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.pdb
+C:\Users\jacqu\Documents\A Teddy\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.genruntimeconfig.cache
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\BlackJack avec Peter.exe
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\BlackJack avec Peter.deps.json
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\BlackJack avec Peter.runtimeconfig.json
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\BlackJack avec Peter.runtimeconfig.dev.json
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\BlackJack avec Peter.dll
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\ref\BlackJack avec Peter.dll
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\bin\Debug\net5.0\BlackJack avec Peter.pdb
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.csproj.AssemblyReference.cache
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.AssemblyInfoInputs.cache
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.AssemblyInfo.cs
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.csproj.CoreCompileInputs.cache
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.dll
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\ref\BlackJack avec Peter.dll
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.pdb
+C:\Users\fetut\OneDrive\Documents\Cnam\Part 2 C#\Doc 1\Code\BlackJack avec Peter\BlackJack avec Peter\obj\Debug\net5.0\BlackJack avec Peter.genruntimeconfig.cache
